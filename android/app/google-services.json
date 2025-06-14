@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975389238544",
+    "project_id": "ingat-in",
+    "storage_bucket": "ingat-in.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975389238544:android:28f0b40b7b34dc69403195",
+        "android_client_info": {
+          "package_name": "com.example.ingat_in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDobuu0SCX8U4iHY3Y4SV-5_UmcrkWtqFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
